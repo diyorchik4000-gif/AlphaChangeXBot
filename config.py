@@ -1,0 +1,4 @@
+BOT_TOKEN = "8218975466:AAFpGk3iHTPbbLSKdMWXQzwQDstB1VTAP18"
+ADMIN_IDS = [5]  # o'zgartiring
+REQUIRED_CHANNELS = []
+DB_FILE = "database.json"
